@@ -4,7 +4,7 @@
 
 Um mapa web público que mostra onde estão planejadas operações de pesquisa sísmica offshore e onde o navio de pesquisa reportou sua posição pela última vez, atualizado a partir de reportes de posição enviados por e-mail, com validação determinística seguida de uma revisão de plausibilidade por LLM, e com uma visualização 3D do fundo do mar em WebGL2 própria, construída a partir de batimetria pública.
 
-Desenvolvido durante meu trabalho na Toveri, uma consultoria ambiental que monitora operações offshore. Apenas documentação: sem código-fonte, nomes de clientes, dados ou identificadores de infraestrutura.
+Desenvolvido durante meu trabalho na [Toveri](https://toveri.com.br), uma consultoria ambiental que monitora operações offshore. Apenas documentação: sem código-fonte, nomes de clientes, dados ou identificadores de infraestrutura.
 
 > Este repositório contém apenas documentação. O código-fonte, os dados e a infraestrutura pertencem ao empregador e não estão publicados aqui. Veja [O que foi omitido intencionalmente](#o-que-foi-omitido-intencionalmente).
 

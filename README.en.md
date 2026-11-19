@@ -4,7 +4,7 @@
 
 A public web map that shows where offshore seismic survey operations are planned and where the survey vessel last reported its position, updated from e-mailed position reports through deterministic validation plus an LLM plausibility review, with a custom WebGL2 seabed view built from public bathymetry.
 
-Built during my work at Toveri, an environmental consultancy that monitors offshore operations. Documentation only: no source code, client names, data or infrastructure identifiers.
+Built during my work at [Toveri](https://toveri.com.br), an environmental consultancy that monitors offshore operations. Documentation only: no source code, client names, data or infrastructure identifiers.
 
 > This repository is documentation only. The source code, data and infrastructure belong to the employer and are not published here. See [What is intentionally omitted](#what-is-intentionally-omitted).
 
