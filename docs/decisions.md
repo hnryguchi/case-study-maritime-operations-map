@@ -1,5 +1,7 @@
 # Decisions (ADR-style)
 
+[Português](decisoes.md) · **English**
+
 Short records of decisions that shaped the public map. Each one is grounded in the production code base; the code itself is not published.
 
 ## 1. The LLM may veto, never approve on its own
