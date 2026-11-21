@@ -106,3 +106,7 @@ Em produção no Azure App Service, aberto ao público. O histórico do reposit�
 - **O que funcionou:** fazer do LLM um revisor restrito, com poder apenas de veto, atrás de regras determinísticas e à frente de uma notificação legível por pessoas, tornou seguro deixar o pipeline publicar sem human-in-the-loop.
 
 Mais detalhes sobre decisões específicas: [docs/decisoes.md](docs/decisoes.md).
+
+---
+
+> © Henry Noguchi. **Todos os direitos reservados.** Repositório público só para leitura; copiar, reutilizar ou apresentar como próprio exige autorização. Ver [LICENSE](LICENSE).

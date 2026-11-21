@@ -106,3 +106,7 @@ In production on Azure App Service, open to the public. Repository history start
 - **What worked:** making the LLM a constrained reviewer with veto power only, behind deterministic rules and in front of a human-readable notification, made it safe to let the pipeline publish without a human in the loop.
 
 More detail on specific decisions: [docs/decisions.md](docs/decisions.md).
+
+---
+
+> © Henry Noguchi. **All rights reserved.** Public for viewing only; copying, reuse or presenting it as your own requires permission. See [LICENSE](LICENSE).
